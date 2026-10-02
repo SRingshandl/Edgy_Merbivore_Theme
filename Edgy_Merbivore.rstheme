@@ -16,9 +16,8 @@
   color: #FFFFFF
 }
 .ace_marker-layer .ace_selection {
-  background: #666666
+  background: #666666;
   border: 1.5px solid #ff0000
-
 }
 .ace_selection.ace_start {
   box-shadow: 0 0 3px 0px #1C1C1C;
